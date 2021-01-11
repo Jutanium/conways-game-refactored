@@ -1,6 +1,9 @@
 # Annoying mac thing
 .DS_Store
 
+# Annoying vim thing
+*.swp
+
 # Compiled class file
 *.class
 
